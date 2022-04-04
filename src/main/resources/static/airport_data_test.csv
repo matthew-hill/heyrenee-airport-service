@@ -1,0 +1,4 @@
+AirportID|Name|City|Country|IATA Code|ICAO Code|Latitude|Longitude|Altitude|TimeZone
+2|"John F Kennedy International Airport"|"New York"|"United States"|"JFK"|"KJFK"|40.63980103|-73.77890015|13|"America/New_York"
+4|"Juneau International Airport"|"Juneau"|"United States"|"JNU"|"PAJN"|58.35499954223633|-134.5760040283203|21|"America/Anchorage"
+10|"Kotoka International Airport"|"Accra"|"Ghana"|"ACC"|"DGAA"|5.605189800262451|-0.16678600013256073|205|"Africa/Accra"
