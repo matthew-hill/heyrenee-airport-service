@@ -8,7 +8,7 @@ This HTTP service provides two endpoints that provide information about airports
 - Java 11 or greater
 - A recent version of Maven
 - Access to the internet for downloading dependencies from the Maven repository
-- Basic knowledge of the a command line utility
+- Basic knowledge of a command line utility for running commands
 - Understanding of the basics of making HTTP requests
 
 ### Build and run the service
@@ -68,7 +68,7 @@ Airport information can be obtained from the getAirportInfo method
 {
     "originCode": "ACC",
     "destinationCode": "JFK",
-    "units": "miles",
     "distance": 5108.66
+    "units": "miles",
 }
 ```
